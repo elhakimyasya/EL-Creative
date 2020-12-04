@@ -35,7 +35,8 @@
     "src": "https://1.bp.blogspot.com/-zS47XxIF-wM/XWoJg8TooaI/AAAAAAAAGas/LNZq8km1wh0894fdFUq5kTWiRhxDhxgigCLcBGAs/s1600/android-icon-192x192.png",
     "sizes": "192x192",
     "type": "image/png",
-    "density": "4.0"
+    "density": "4.0",
+    "purpose": "any maskable"
   }, {
     "src": "https://1.bp.blogspot.com/-vBE96esmGPs/XWoSZHUepNI/AAAAAAAAGcM/V3U3pcM7qHEDgG-AMc8A-0d0gdbvrMNuwCLcBGAs/s320/elc-cap-grey.png",
     "sizes": "512x512",
