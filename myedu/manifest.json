@@ -7,7 +7,7 @@
     "theme_color": "#00aa13",
     "description": "",
     "icons": [{
-      "src": "https://1.bp.blogspot.com/-R5rf5ttDNy0/XWoJ1KQdwmI/AAAAAAAAGa8/A7ourYUJRWomyUv5KUXRazU1RsztXpxCACLcBGAs/s1600/android-icon-36x36.png",
+      "src": "icons/android-icon-36x36.png",
       "sizes": "36x36",
       "type": "image/png",
       "density": "0.75"
