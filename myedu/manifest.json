@@ -1,11 +1,11 @@
 {
     "name": "MYEDU",
     "short_name": "MYEDU",
-    "start_url": "https://www.elcreativeacademy.com/",
+    "start_url": "https://www.myedu.app/",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#1a73e8",
-    "description": "EL Creative Academy adalah media pembelajaran yang berisi tutorial, dan referensi yang berkaitan dengan topik Teknologi dan Informasi.",
+    "theme_color": "#00aa13",
+    "description": "",
     "icons": [{
       "src": "https://1.bp.blogspot.com/-R5rf5ttDNy0/XWoJ1KQdwmI/AAAAAAAAGa8/A7ourYUJRWomyUv5KUXRazU1RsztXpxCACLcBGAs/s1600/android-icon-36x36.png",
       "sizes": "36x36",
