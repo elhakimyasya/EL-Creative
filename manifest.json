@@ -38,7 +38,7 @@
     "density": "4.0",
     "purpose": "any maskable"
   }, {
-    "src": "https://1.bp.blogspot.com/-vBE96esmGPs/XWoSZHUepNI/AAAAAAAAGcM/V3U3pcM7qHEDgG-AMc8A-0d0gdbvrMNuwCLcBGAs/s512/elc-cap-grey.png",
+    "src": "icons/512x512.png",
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0"
