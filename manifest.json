@@ -1,7 +1,7 @@
 {
   "name": "EL Creative Academy",
   "short_name": "EL Creative Academy",
-  "start_url": "https://www.elcreativeacademy.com/",
+  "start_url": "https://www.elcreativeacademy.com/?m=1",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a73e8",
@@ -37,9 +37,10 @@
     "type": "image/png",
     "density": "4.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-vBE96esmGPs/XWoSZHUepNI/AAAAAAAAGcM/V3U3pcM7qHEDgG-AMc8A-0d0gdbvrMNuwCLcBGAs/s320/elc-cap-grey.png",
+    "src": "https://1.bp.blogspot.com/-vBE96esmGPs/XWoSZHUepNI/AAAAAAAAGcM/V3U3pcM7qHEDgG-AMc8A-0d0gdbvrMNuwCLcBGAs/s512/elc-cap-grey.png",
     "sizes": "512x512",
     "type": "image/png",
-    "density": "5.0"
+    "density": "5.0",
+    "purpose": "any maskable"
   }]
 }
