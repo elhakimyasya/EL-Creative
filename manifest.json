@@ -7,40 +7,40 @@
   "theme_color": "#1a73e8",
   "description": "EL Creative Academy adalah media pembelajaran yang berisi tutorial, dan referensi yang berkaitan dengan topik Teknologi dan Informasi.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-R5rf5ttDNy0/XWoJ1KQdwmI/AAAAAAAAGa8/A7ourYUJRWomyUv5KUXRazU1RsztXpxCACLcBGAs/s1600/android-icon-36x36.png",
+    "src": "icons/android-icon-36x36.png,
     "sizes": "36x36",
     "type": "image/png",
     "density": "0.75"
   }, {
-    "src": "https://1.bp.blogspot.com/-W-KFFXruV2A/XWoIlpM4exI/AAAAAAAAGaE/Llq_6UxbiaMDQeyDMcRtOBYukzyIhPlxwCLcBGAs/s1600/android-icon-48x48.png",
+    "src": "icons/android-icon-48x48.png",
     "sizes": "48x48",
     "type": "image/png",
     "density": "1.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-KZAV3G_9Pg8/XWoIvzlIgUI/AAAAAAAAGaI/zsxX3_3CIHIejDcwM56jsWXHNirCPSmZACLcBGAs/s1600/android-icon-72x72.png",
+    "src": "icons/android-icon-72x72.png",
     "sizes": "72x72",
     "type": "image/png",
     "density": "1.5"
   }, {
-    "src": "https://1.bp.blogspot.com/-Jukzvb0W6dY/XWoI2fMqLtI/AAAAAAAAGaQ/LN_mXP7FcfEE08GlTDML-58Cwvx-g0spQCLcBGAs/s1600/android-icon-96x96.png",
+    "src": "icons/android-icon-96x96.png",
     "sizes": "96x96",
     "type": "image/png",
     "density": "2.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-a4UU609WFmI/XWoJMgWg0hI/AAAAAAAAGac/gGw_se7wrxESy57fP24F0s9lQFUO2AnsQCLcBGAs/s1600/android-icon-144x144.png",
+    "src": "icons/android-icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png",
     "density": "3.0"
   }, {
-    "src": "https://1.bp.blogspot.com/-zS47XxIF-wM/XWoJg8TooaI/AAAAAAAAGas/LNZq8km1wh0894fdFUq5kTWiRhxDhxgigCLcBGAs/s1600/android-icon-192x192.png",
+    "src": "icons/android-icon-192x192.png",
     "sizes": "192x192",
     "type": "image/png",
-    "density": "4.0"
+    "density": "4.0",
+    "purpose": "any maskable"
   }, {
     "src": "https://1.bp.blogspot.com/-vBE96esmGPs/XWoSZHUepNI/AAAAAAAAGcM/V3U3pcM7qHEDgG-AMc8A-0d0gdbvrMNuwCLcBGAs/s512/elc-cap-grey.png",
     "sizes": "512x512",
     "type": "image/png",
-    "density": "5.0",
-    "purpose": "any maskable"
+    "density": "5.0"
   }]
 }
